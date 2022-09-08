@@ -1,0 +1,48 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  height: 100%;
+  background-image: url('https://img.freepik.com/fotos-gratis/rasgado-escrever-lista-de-pin-para-cartas_1253-499.jpg');
+  background-color: #000000;
+  background-size: 145vh;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 0 0 5px;
+  text-align: center
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+  text-align: center
+}
+
+.page-logo {
+  width: 150px;
+  
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  
+ 
+}
+
+ .giphy-embed {
+  position: absolute;
+    left: 10%;
+    top: 25%;
+   
+   }
